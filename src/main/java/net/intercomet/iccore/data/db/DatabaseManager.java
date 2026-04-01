@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package net.intercomet.iccore.data.db;
 
 import net.intercomet.iccore.Intercomet;
